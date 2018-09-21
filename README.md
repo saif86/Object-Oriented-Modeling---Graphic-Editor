@@ -1,2 +1,28 @@
 # Object-Oriented-Modeling
 Step-wise procedure to translate a problem statement into class diagram
+## Problem Statement
+*"Develop a graphic editor that can draw different geometric shapes such as line, circle and triangle. User can select, move or rotate a shape. To do so, editor provides user with a menu listing different commands. Individual shapes can be grouped together and can behave as a single shape."* 
+
+---
+### Step 1). Identify Classes
+Extract nouns in the problem statement.
+
+Develop a graphic **editor** that can draw different geometric **shapes** such as **line**, **circle** and **triangle**. **User** can select, move or rotate a **shape**. To do so, **editor** provides **user** with a **menu** listing different **commands**. Individual **shapes** can be grouped together and can behave as a single **shape**. 
+
+Eliminate irrelevant classes.
+* Editor - Very broad scope
+* User – Out of system boundary
+
+Add more classes by analyzing requirements
+* Group - required to behave as a shape
+  * Individual shapes can be grouped together and can behave as a single shape
+* View – editor must have a display area
+
+Following classes have been identified:
+* Shape
+* Line
+* Circle
+* Triangle
+* Menu
+* **Group**
+* **View**
