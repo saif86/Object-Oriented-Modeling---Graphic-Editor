@@ -28,3 +28,30 @@ Following classes have been identified:
 * **View**
 
 ![initial](https://user-images.githubusercontent.com/41892175/45860923-6614ff00-bd9c-11e8-87fb-530b0b6dc907.jpg)
+
+---
+### Step 2). Identify Associations
+Extract verbs connecting objects.
+
+**"Individual shapes can be grouped together"**
+* Group consists of lines, circles, triangles
+* Group can also consists of other groups
+
+(Composition)
+
+Verify access paths.
+
+**View contains shapes**
+* View contains lines
+* View contains circles
+* View contains triangles
+* View contains groups
+
+(Aggregation)
+
+**Menu sends message to View**
+
+(Simple One-Way Association)
+### Basic Object Model
+
+
