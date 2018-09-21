@@ -90,3 +90,46 @@ Extract properties of the object from the domain knowledge.
 Extract verbs connected with an object.
 
 **Develop** a graphic editor that can **draw** different geometric shapes such as line, circle and triangle. User can **select**, **move** or **rotate** a shape. To do so, editor **provides** user with a menu listing different commands. Individual shapes can be **grouped** together and can **behave** as a single shape.
+
+Eliminate irrelevant operations.
+* Develop - out of system boundary
+* Provides - have broad semantics
+* Behave – broad semantics
+
+Following are selected operations:
+* **Shape**
+  * Draw
+  * Select
+  * Move
+  * Rotate
+* **Line**
+  * Draw
+  * Select
+  * Move
+  * Rotate
+* **Circle**
+  * Draw
+  * Select
+  * Move
+  * Rotate
+* **Triangle**
+  * Draw
+  * Select
+  * Move
+  * Rotate
+* **Menu**
+  * Open
+  * Select
+  * Move
+  * Rotate
+* **Group**
+  * Draw
+  * Select
+  * Move
+  * Rotate
+Extract operations using domain knowledge
+* **View**
+  * Add
+  * Remove
+  * Group
+  * Show
