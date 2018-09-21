@@ -26,7 +26,7 @@ Following classes have been identified:
 * Menu
 * **Group**
 * **View**
-
+### Basic Object Model - Graphic Editor
 ![initial](https://user-images.githubusercontent.com/41892175/45860923-6614ff00-bd9c-11e8-87fb-530b0b6dc907.jpg)
 
 ---
@@ -52,6 +52,9 @@ Verify access paths.
 **Menu sends message to View**
 
 (Simple One-Way Association)
-### Basic Object Model
+### Basic Object Model - Graphic Editor
+![initial](https://user-images.githubusercontent.com/41892175/45861910-dbcf9980-bda1-11e8-9004-d37512a6f1fe.jpg)
 
-
+---
+### Step 3). Identify Attributes
+Extract properties of the object
