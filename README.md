@@ -136,3 +136,15 @@ Extract operations using domain knowledge
   * Show
 ### Basic Object Model - Graphic Editor
 ![initial](https://user-images.githubusercontent.com/41892175/45868828-5657e380-bdb9-11e8-8a65-c63c00f45aec.jpg)
+
+---
+### Step 5). Identify Inheritance
+Search “is a kind of” by looking at keywords like “such as”, “for example”, etc
+
+**"…shapes such as line, circle and triangle…"**
+   * Line, Circle and Triangle inherits from Shape
+
+By analyzing requiremens
+
+**"Individual shapes can be grouped together and can behave as a single shape"**
+   * Group inherits from Shape
