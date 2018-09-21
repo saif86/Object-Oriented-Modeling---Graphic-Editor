@@ -83,7 +83,7 @@ Extract properties of the object from the domain knowledge.
   * noOfObjects
   * selected
 ### Basic Object Model - Graphic Editor
-![initial](https://user-images.githubusercontent.com/41892175/45866678-20fcc700-bdb4-11e8-95c8-adec3c43d91b.jpg)
+![initial](https://user-images.githubusercontent.com/41892175/45867370-e7c55680-bdb5-11e8-8a42-be5fcbee820b.jpg)
 
 ---
 ### Step 4). Identify Operations
