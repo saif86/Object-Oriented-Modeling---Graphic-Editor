@@ -127,6 +127,7 @@ Following are selected operations:
   * Select
   * Move
   * Rotate
+
 Extract operations using domain knowledge
 * **View**
   * Add
