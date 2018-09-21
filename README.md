@@ -26,3 +26,5 @@ Following classes have been identified:
 * Menu
 * **Group**
 * **View**
+
+![initial](https://user-images.githubusercontent.com/41892175/45860923-6614ff00-bd9c-11e8-87fb-530b0b6dc907.jpg)
