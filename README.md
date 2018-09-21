@@ -12,6 +12,7 @@ Develop a graphic **editor** that can draw different geometric **shapes** such a
 Eliminate irrelevant classes.
 * Editor - Very broad scope
 * User – Out of system boundary
+* commands – Broad scope
 
 Add more classes by analyzing requirements
 * Group - required to behave as a shape
@@ -57,4 +58,28 @@ Verify access paths.
 
 ---
 ### Step 3). Identify Attributes
-Extract properties of the object
+Extract properties of the object from the domain knowledge.
+* **Shape**
+  * Color
+  * Vertices
+* **Line**
+  * Color
+  * Vertices
+  * Length
+* **Circle**
+  * Color
+  * Vertices
+  * Radius
+* **Triangle**
+  * Color
+  * Vertices
+  * Angle
+* **Menu**
+  * Name
+  * isOpen
+* **Group**
+  * noOfObjects
+* **View**
+  * noOfObjects
+  * selected
+
