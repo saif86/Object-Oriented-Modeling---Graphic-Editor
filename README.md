@@ -148,3 +148,5 @@ By analyzing requiremens
 
 **"Individual shapes can be grouped together and can behave as a single shape"**
    * Group inherits from Shape
+### Refined Object Model - Graphic Editor
+![initial](https://user-images.githubusercontent.com/41892175/45870172-d895d700-bdbc-11e8-86c9-048304dd22a2.jpg)
