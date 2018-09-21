@@ -134,3 +134,5 @@ Extract operations using domain knowledge
   * Remove
   * Group
   * Show
+### Basic Object Model - Graphic Editor
+![initial](https://user-images.githubusercontent.com/41892175/45868594-c6199e80-bdb8-11e8-93ae-be80f3deadb5.jpg)
