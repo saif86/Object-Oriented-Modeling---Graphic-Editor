@@ -54,7 +54,7 @@ Verify access paths.
 
 (Simple One-Way Association)
 ### Basic Object Model - Graphic Editor
-![initial](https://user-images.githubusercontent.com/41892175/45861910-dbcf9980-bda1-11e8-9004-d37512a6f1fe.jpg)
+![45861910-dbcf9980-bda1-11e8-9004-d37512a6f1fe](https://user-images.githubusercontent.com/41892175/45867325-c8c6c480-bdb5-11e8-9e97-c83869ab384d.jpg)
 
 ---
 ### Step 3). Identify Attributes
