@@ -82,4 +82,11 @@ Extract properties of the object from the domain knowledge.
 * **View**
   * noOfObjects
   * selected
+### Basic Object Model - Graphic Editor
+![initial](https://user-images.githubusercontent.com/41892175/45865786-2c9abe80-bdb1-11e8-8ded-72e13ef78721.jpg)
 
+---
+### Step 4). Identify Operations
+Extract verbs connected with an object.
+
+**Develop** a graphic editor that can **draw** different geometric shapes such as line, circle and triangle. User can **select**, **move** or **rotate** a shape. To do so, editor **provides** user with a menu listing different commands. Individual shapes can be **grouped** together and can **behave** as a single shape.
